@@ -1,1 +1,3 @@
-# IMGOCRBackend
+# Img2Text
+
+#.env
